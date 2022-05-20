@@ -1,5 +1,10 @@
-## Hi there 👋 I'm Owen
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/owenyoshishige/)](https://www.linkedin.com/in/owenyoshishige/)
+## Hi there! I'm Owen
+I am a full-stack software engineer who loves to learn new technologies and enjoys all aspects of coding. I also enjoy optimizing and making things faster.  
+
+<br>
+<br>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/owenyoshishige/)](https://www.linkedin.com/in/owenyoshishige/)
+
 
 ### Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
