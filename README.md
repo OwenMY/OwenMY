@@ -1,5 +1,5 @@
 ## Hi there! I'm Owen
-I am a full-stack software engineer who loves to learn new technologies and enjoys all aspects of coding. 
+I am a technology enthusiast and a coffee addict ☕ with a passion for automation and creating things.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/owenyoshishige/)](https://www.linkedin.com/in/owenyoshishige/)
 
