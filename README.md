@@ -1,5 +1,5 @@
-## Hi there! I'm Owen
-I am a technology enthusiast and a coffee addict ☕ with a passion for automation and creating things. Come and checkout my live [portfolio](https://www.owen-yoshishige.com/)! 
+## Hey all, the names Owen.
+I love to automate things wherever I think time can be saved and love sushi 🍣.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/owenyoshishige/)](https://www.linkedin.com/in/owenyoshishige/)
 
