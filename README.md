@@ -1,5 +1,5 @@
-## 🚀 Front-End Developer | Problem Solver | Automation Enthusiast
-I’m a front-end developer with a passion for automation With hands-on experience across the stack and a history of wearing many hats, I bring versatility, adaptability, and a drive to deliver high-quality, impactful projects.
+## 🚀 Software Developer | Mechanical Engineer | Problem Solver | Automation Enthusiast
+I’m a software developer with a passion for automation With hands-on experience across the stack and a history of wearing many hats, I bring versatility, adaptability, and a drive to deliver high-quality, impactful projects.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/owenyoshishige/)](https://www.linkedin.com/in/owenyoshishige/)
 
